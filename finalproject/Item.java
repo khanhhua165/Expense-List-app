@@ -29,10 +29,4 @@ public class Item implements Serializable {
 	public String toString() {
 		return String.format("%-10s\t\t%-7.2f\t\t\t%-25s", this.itemCategory, this.expense, this.description);
 	}
-	
-	public static void main(String[] args) {
-		String cac = "hehe";
-		String lon = cac;
-		System.out.println(cac == lon);
-	}
 }
