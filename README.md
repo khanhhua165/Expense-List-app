@@ -1,4 +1,4 @@
-# Grocery-List-app
+# Expense-List-app
 Java application with GUI using JavaFx
 
 **1. Project Description:**
