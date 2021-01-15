@@ -18,6 +18,6 @@ needed to run the program e.g. Add an expense, Find expenses by date, Save to fi
 - Date class: this class is to display the String format into Date object. It provides method for comparing between two dates.
 
 **3. Screen-shot of working program:**
-![Screenshot 1](https://khanhhua165.github.io/Grocery-List-app/screenshots/1.png)
-![Screenshot 2](https://khanhhua165.github.io/Grocery-List-app/screenshots/8.png)
-![Screenshot 3](https://khanhhua165.github.io/Grocery-List-app/screenshots/12.png)
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/8.png)
+![Screenshot 3](screenshots/12.png)
