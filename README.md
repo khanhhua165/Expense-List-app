@@ -22,5 +22,5 @@ needed to run the program e.g. Add an expense, Find expenses by date, Save to fi
 **3. Screen-shot of working program:**
 
 ![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/8.png)
-![Screenshot 3](screenshots/12.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
